@@ -10,21 +10,17 @@ However, if Eve impersonates Bob_1 (or Bob_2), then the BS must be capable of de
 The goal is to detect if the signal received at the BS is associated with a spoofing attack or not.
 
 ---
-![alt text](
-https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_1.png
-)
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_1.png"
+width="40%" height="40%">
 
-![alt text](
-https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_2.png
-)
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_2.png"
+width="40%" height="40%">
 
-![alt text](
-https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_2.png
-)
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_3.png"
+width="40%" height="40%">
 
-![alt text](
-https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_4.png
-)
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_4.png"
+width="40%" height="40%">
 
 ---
 Used packages include:
@@ -44,13 +40,13 @@ Styles:
 NOTE for 'az_MAIN.py'
 1) If you do NOT want to re-create the datasets, you should make lines 15 and 17 comments.
 
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/fb23647221776cd27f7a09c25b6a88c1110c2a60/library/Remove_parts_1_and_2.png" width="50%" height="50%">
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Remove_parts_1_and_2.png" width="50%" height="50%">
 
 2) If you do NOT want to re-create the datasets and do NOT want to re-train a deep neural network, you should make lines 15, 17 and 19 comments.
 
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/fb23647221776cd27f7a09c25b6a88c1110c2a60/library/Remove_parts_1_2_and_3.png?s=100" width="50%" height="50%">
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Remove_parts_1_2_and_3.png" width="50%" height="50%">
 
 3) If you only want to see some intuitive results immediately, you should make lines 15, 17, 19 and 21 comments.
 
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/fb23647221776cd27f7a09c25b6a88c1110c2a60/library/Remove_parts_1_2_3_and_4.png" width="50%" height="50%">
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Remove_parts_1_2_3_and_4.png" width="50%" height="50%">
 
