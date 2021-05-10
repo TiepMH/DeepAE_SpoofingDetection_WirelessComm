@@ -10,6 +10,24 @@ However, if Eve impersonates Bob_1 (or Bob_2), then the BS must be capable of de
 The goal is to detect if the signal received at the BS is associated with a spoofing attack or not.
 
 ---
+![alt text](
+https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_1.png
+)
+
+![alt text](
+https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_2.png
+)
+
+![alt text](
+https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_2.png
+)
+
+![alt text](
+https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_4.png
+)
+
+
+---
 Styles:
 - Object-oriented programming
 - PEP 8
