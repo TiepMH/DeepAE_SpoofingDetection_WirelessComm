@@ -26,6 +26,16 @@ https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_
 https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/Figure_4.png
 )
 
+---
+Used packages include:
+- tensorflow
+- numpy
+- matplotlib
+- sklearn
+- scipy
+- pickle
+- os, pathlib
+---
 
 ---
 Styles:
