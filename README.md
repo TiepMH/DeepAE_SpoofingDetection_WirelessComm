@@ -10,19 +10,6 @@ However, if Eve impersonates Bob_1 (or Bob_2), then the BS must be capable of de
 The goal is to detect if the signal received at the BS is associated with a spoofing attack or not.
 
 ---
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_1.png"
-width="40%" height="40%">
-
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_2.png"
-width="40%" height="40%">
-
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_3.png"
-width="40%" height="40%">
-
-<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_4.png"
-width="40%" height="40%">
-
----
 Used packages include:
 - tensorflow
 - numpy
@@ -32,9 +19,8 @@ Used packages include:
 - pickle
 - os, pathlib
 ---
-Styles:
+Style:
 - Object-oriented programming
-- PEP 8
 
 ---
 NOTE for 'az_MAIN.py'
@@ -50,3 +36,17 @@ NOTE for 'az_MAIN.py'
 
 <img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Remove_parts_1_2_3_and_4.png" width="50%" height="50%">
 
+---
+Some results:
+
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_1.png"
+width="40%" height="40%">
+
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_2.png"
+width="40%" height="40%">
+
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_3.png"
+width="40%" height="40%">
+
+<img src="https://github.com/TiepMH/AE_for_Anomaly_Detection__with_2_legitimate_users_and_1_eavesdropper/blob/main/recycle_bin/Figure_4.png"
+width="40%" height="40%">
